@@ -1,5 +1,6 @@
 body{
     background-color: rgb(255, 247, 242);
+    font-family: 'Poppins', sans-serif;
 }
 /* blank input error message */
 #blank-input{
